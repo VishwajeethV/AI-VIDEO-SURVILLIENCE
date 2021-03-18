@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    font-family: 'Stick', sans-serif;
+}
+
+.heading{
+    font-style: italic;
+    width: 100%;
+    margin: 0px;
+    font-size: 25px;
+}
+
+.start{
+    font-size: 15px;
+}
+
+canvas{
+    border: darkgoldenrod;
+    border-radius: 10px;
+    border-width: 5px;
+    box-shadow: orangered;
+    border-style: solid;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: greenyellow;
+    color: midnightblue ;
+    width: 100%;
+    line-height: 2;
+}
